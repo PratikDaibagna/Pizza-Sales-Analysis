@@ -1,2 +1,2 @@
 # Pizza-Sales-Analysis
-Data Analytics Project using SQL &amp; PowerBI
+This project analyzes one year of pizza sales data using SQL for data analytics and Power BI for visualization. SQL was used to extract key insights, such as total revenue, sales trends, and customer preferences. Power Query was leveraged for data cleaning and transformation, ensuring a structured and optimized dataset. Finally, an interactive Power BI dashboard was created to visualize the sales performance, helping to identify business opportunities and trends. This project showcases SQL querying skills, data transformation techniques, and dashboard design for effective data storytelling.
